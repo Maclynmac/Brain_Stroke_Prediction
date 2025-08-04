@@ -10,7 +10,7 @@
 
 <li>Data Preprocessing Steps: Performs cleaning, null-value handling, encoding, normalization, and possibly balancing/resampling.</li>
 
-<li>Performance Evaluation: Presents results using metrics like accuracy, precision, recall/sensitivity, specificity, and confusion matrix or ROC curves.</li> 
+<li>Performance Evaluation: Presents results using metrics like accuracy, precision, recall/sensitivity, specificity, and confusion matrix.</li> 
 
 <li.Working Demo or GUI: Features a user interface or live demonstration where inputs trigger stroke risk predictions.</li>
 
@@ -29,8 +29,6 @@
 <li>Matplotlib & Seaborn – for data visualization</li>
 
 <li>Scikit-learn – for implementing machine learning models like Decision Tree, Logistic Regression, etc.</li>
-
-<li>Tkinter (or similar) – for building the graphical user interface</li>
 
 <li>Jupyter Notebook – for running and demonstrating code</li>
 
