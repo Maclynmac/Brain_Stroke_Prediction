@@ -18,6 +18,24 @@
 
 </ul>
 
+<strong>Technologies Used:</strong>
+
+<ul>
+  
+<li>Python – for coding the entire ML pipeline</li>
+
+<li>Pandas & NumPy – for data manipulation and preprocessing</li>
+
+<li>Matplotlib & Seaborn – for data visualization</li>
+
+<li>Scikit-learn – for implementing machine learning models like Decision Tree, Logistic Regression, etc.</li>
+
+<li>Tkinter (or similar) – for building the graphical user interface</li>
+
+<li>Jupyter Notebook – for running and demonstrating code</li>
+
+</ul>
+
 
 
 # Output
